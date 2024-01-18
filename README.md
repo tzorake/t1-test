@@ -2,9 +2,9 @@
 
 ## Force-Directed Graph Layout
 
-This repository contains a simple yet effective implementation of a force-directed graph layout algorithm.
+This repository contains a implementation of a force-directed graph layout algorithm.
 
-The algorithm aims to organize the graph in a visually appealing manner by simulating attractive forces between connected nodes and repulsive forces between all nodes. 
+The algorithm aims to organize the graph in a visually appealing manner by simulating attractive forces between connected nodes and repulsive forces between all nodes.
 
 This implementation leverages `Qt/C++` for the graphical aspects and provides a visualization of the force-directed layout for the input graph.
 
