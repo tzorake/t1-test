@@ -2,9 +2,6 @@
 #include "ui_mainwindow.h"
 #include <QtConcurrent>
 #include <QFuture>
-#include <QFutureWatcher>
-#include <QIntValidator>
-#include <QDoubleValidator>
 #include <QInputDialog>
 #include <QMessageBox>
 

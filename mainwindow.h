@@ -3,7 +3,6 @@
 
 #include "graph.h"
 #include <QMainWindow>
-#include <QTextStream>
 #include <QVector>
 #include <QDebug>
 #include <QTimer>
@@ -17,13 +16,9 @@ QT_END_NAMESPACE
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
-
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
-
-signals:
-    void parameterChanged();
 
 private slots:
     void onLazyChange();

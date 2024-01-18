@@ -10,7 +10,6 @@
 #include <QWheelEvent>
 #include <QtMath>
 #include <QDebug>
-#include <QScrollBar>
 #include <QPainter>
 
 class CanvasView : public QFrame
