@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>svg/matrix-icon.svg</file>
+        <file>svg/refresh-icon.svg</file>
+    </qresource>
+</RCC>
