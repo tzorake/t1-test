@@ -12,7 +12,7 @@ This implementation leverages `Qt/C++` for the graphical aspects and provides a 
 
 The implementation is built using `Desktop Qt 5.14.2 with MinGW 32-bit`.
 
-# Demo
+## Demo
 
 Here are some screenshots showcasing the program in action:
 
